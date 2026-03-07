@@ -3,6 +3,7 @@
 // @version      2.1
 // @description  Adds Inject Script and Delete All buttons to MyAnimeList anime lists. Scans the list, collects anime IDs, deletes them automatically, and shows a live progress bar while entries are removed.
 // @author       Hamza Haroon
+// @namespace    https://github.com/hamzaharoon1314/MyAnimeList-Bulk-Delete
 // @license      MIT
 // @match        https://myanimelist.net/animelist/*
 // @match        https://myanimelist.net/profile/*
