@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         MyAnimeList Bulk Delete – Remove Selected Anime (FAB Version)
-// @version      2.4
+// @name         MyAnimeList Bulk Delete – Remove Selected Anime
+// @version      2.5
 // @description  Adds checkboxes to select specific anime to delete, accessed via a Floating Action Button (FAB).
 // @author       Hamza Haroon
 // @namespace    https://github.com/hamzaharoon1314/MyAnimeList-Bulk-Delete
